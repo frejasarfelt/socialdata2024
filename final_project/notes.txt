@@ -1,0 +1,23 @@
+
+# Børnefamilier til København
+Hvilke bydel foretrækker du?
+
+Opsummering af legepladser Per område
+Institutioner, vise adskilt vuggestuer, børnehaver, skoler, og gym. Alt efter hvad de leder efter.
+Offentlig transport i områderne
+Parker/grønne områder
+Fritidsordninger og aktiviteter (svømmehallen osv)
+Hundeområder
+
+
+
+Skal du flytte til København med din børnefamilie?
+Bliv klogere og læs med her.
+
+
+Potentielle datasets:
+- https://www.opendata.dk/city-of-copenhagen/kkorg-kobenhavns-kommunes-organisatoriske-enhed#resource-kkorg-data.csv
+- https://www.opendata.dk/city-of-copenhagen/legepladser1
+- https://www.opendata.dk/city-of-copenhagen/hundeomrader
+- https://www.opendata.dk/city-of-copenhagen/gronne-omrader
+- https://www.opendata.dk/city-of-copenhagen/daginstitutioner
