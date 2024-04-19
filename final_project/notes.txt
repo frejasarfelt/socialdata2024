@@ -21,3 +21,19 @@ Potentielle datasets:
 - https://www.opendata.dk/city-of-copenhagen/hundeomrader
 - https://www.opendata.dk/city-of-copenhagen/gronne-omrader
 - https://www.opendata.dk/city-of-copenhagen/daginstitutioner
+
+
+
+# Notes from feedback class
+## General
+- Combine with other datasets to make more interesting stories
+- Spatial data over time is easiliest shown with a movie
+- You don't have to stick with what you have in the video (feel free to chose another topic/genre/plots)
+
+## Ours
+- No problem that we don't have time element
+- Nice idea (and nice with several datasets)
+
+# Ideas from other videos
+- Scrape data from webpages to gather own data
+- Maybe add average prices of areas?
