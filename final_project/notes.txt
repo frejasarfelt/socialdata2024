@@ -37,3 +37,11 @@ Potentielle datasets:
 # Ideas from other videos
 - Scrape data from webpages to gather own data
 - Maybe add average prices of areas?
+
+
+
+- Tilføj noise til koordinater
+- Filter på børnehave/skole/vuggestuer
+- Institutioner/km^2 pr bydel (indbyggere)
+- pins til legepladser?
+- tekst til density plot pænere?
