@@ -40,8 +40,6 @@ Potentielle datasets:
 
 
 
-- Tilføj noise til koordinater
-- Filter på børnehave/skole/vuggestuer
+
 - Institutioner/km^2 pr bydel (indbyggere)
-- pins til legepladser?
-- tekst til density plot pænere?
+- add font til maps
