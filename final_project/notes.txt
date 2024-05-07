@@ -43,3 +43,12 @@ Potentielle datasets:
 
 - Institutioner/km^2 pr bydel (indbyggere)
 - add font til maps
+
+
+Power Point Presentation:
+https://docs.google.com/presentation/d/1Oc3iqsFVgtgHwpz6FcuL-zByZpY9n1S3iHdR5MVgRRk/edit?usp=sharing
+
+Github Webpage:
+https://frejasarfelt.github.io/your-copenhagen/
+
+Dashboard theme: https://jekyllup.com/themes/hydra-business-jekyll-theme
