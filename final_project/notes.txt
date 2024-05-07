@@ -40,9 +40,13 @@ Potentielle datasets:
 
 
 
-
+# TO DO
 - Institutioner/km^2 pr bydel (indbyggere)
 - add font til maps
+
+- Add to webpage
+- Write discussion
+
 
 
 Power Point Presentation:
